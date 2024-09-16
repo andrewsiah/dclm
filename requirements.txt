@@ -15,13 +15,11 @@ sentencepiece
 kenlm
 langdetect
 retrie
-https://github.com/kpu/kenlm/archive/master.zip
 justext
 lxml
 cloudpathlib
 boto3
 moto
-git+https://github.com/mlfoundations/open_lm.git
 scipy
 fire
 s3fs
@@ -31,5 +29,7 @@ gitpython
 Unidecode
 beautifulsoup4
 zstandard
-llm-foundry==0.9.0
 lxml_html_clean
+llm-foundry==0.9.0
+git+https://github.com/mlfoundations/open_lm.git
+https://github.com/kpu/kenlm/archive/master.zip
